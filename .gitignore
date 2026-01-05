@@ -99,3 +99,5 @@ conda-meta/
 # Secrets
 secrets/
 credentials.json
+
+git_commands.txt
